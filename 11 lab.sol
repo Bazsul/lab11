@@ -17,7 +17,7 @@ interface IERC20 {
 
 contract SLTN is IERC20 {
 
-    string public constant name = "lab11";
+    string public constant name = "labki";
     string public constant symbol = "SLTN";
     uint8 public constant decimals = 2;
 
